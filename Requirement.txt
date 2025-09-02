@@ -9,5 +9,3 @@ requests
 joblib
 scikit-learn
 flask
-xgboost
-lightgbm
