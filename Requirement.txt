@@ -1,0 +1,13 @@
+pyngrok
+twilio
+python-dotenv
+numpy
+pandas
+matplotlib
+seaborn
+requests
+joblib
+scikit-learn
+flask
+xgboost
+lightgbm
